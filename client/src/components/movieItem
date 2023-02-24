@@ -1,0 +1,6 @@
+import React from 'react'
+
+
+const movieItem = ({ key, movieName }) (
+  <li>{movieName}</li>
+)
